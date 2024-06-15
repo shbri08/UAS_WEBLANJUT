@@ -13,3 +13,8 @@
 ![Screenshot (2104)](https://github.com/shbri08/UAS_WEBLANJUT/assets/117991094/8f3a96e6-b5a3-4220-a7c4-421cdbc4db39)
   
 ![Screenshot (2105)](https://github.com/shbri08/UAS_WEBLANJUT/assets/117991094/cd0df921-2ed3-419f-96f3-86cc9755a986)
+
+
+<h1>KREDENSIAL LOGIN PENGGUNA</h1>
+- Admin: email dan password ; shabrinazahra08@gmail.com dan jahra26
+- Pengelola : email dan password ; Rian26@gmail.com dan rian123
